@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234872063335",
+    "project_id": "totem-notes",
+    "storage_bucket": "totem-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234872063335:android:5f570304f3a49c0781dbc2",
+        "android_client_info": {
+          "package_name": "com.example.totem_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsmTVaXImUDyozyT4rZ8WVyNj-t3cacHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
